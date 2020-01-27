@@ -3,7 +3,7 @@ This repository contains a python implementation of Random Jump Consistent Hashi
 
 # Reference
 
-Random Jump Consistent Hashing was proposed in the preprint "Revisiting Consistent Hashing with Bounded Loads". We recommend reading the paper for the theoretical analysis of server load variance, expected number of full servers, and other key properties.
+Random Jump Consistent Hashing was proposed in the preprint "Revisiting Consistent Hashing with Bounded Loads". We recommend reading the paper for the novel theoretical analysis of server load variance, expected number of full servers, and other key properties.
 
 If this algorithm is useful, please cite the paper as follows:
 
