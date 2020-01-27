@@ -1,5 +1,5 @@
 # Revisiting Consistent Hashing with Bounded Loads
-This repository contains a python implementation of Random Jump Consistent Hashing in Revisiting Consistent Hashing with Bounded Loads. The original paper is viewable at https://arxiv.org/abs/1908.08762 .
+This repository contains a python implementation of Random Jump Consistent Hashing in Revisiting Consistent Hashing with Bounded Loads. The experimental section in the paper can be reproduced using code in this repository. The original paper is viewable at https://arxiv.org/abs/1908.08762 .
 
 # Reference
 
