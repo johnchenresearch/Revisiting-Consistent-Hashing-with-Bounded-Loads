@@ -8,10 +8,10 @@ Random Jump Consistent Hashing was proposed in the preprint "Revisiting Consiste
 If this algorithm is useful, please cite the paper as follows:
 
 ~~~
-@article{chen2019rjch,
+@article{chen2020rjch,
   title={Revisiting Consistent Hashing with Bounded Loads},
   author={John Chen, Ben Coleman, and Anshumali Shrivastava},
   journal={arXiv preprint arXiv:1908.08762},
-  year={2019}
+  year={2020}
 }
 ~~~
